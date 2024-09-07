@@ -1,0 +1,6 @@
+{
+  "name": "Aluminum",
+  "version": "1.0.0",
+  "description": "Aluminum browser",
+  "main": "browser.cs"
+}
